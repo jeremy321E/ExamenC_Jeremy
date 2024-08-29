@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ExamenC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB87928-DB3E-4A59-8C74-087CA8B7EB4E}|Preguntas de Examen\\Preguntas de Examen.csproj|c:\\users\\user\\source\\repos\\examenc\\preguntas de examen\\preguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB87928-DB3E-4A59-8C74-087CA8B7EB4E}|Preguntas de Examen\\Preguntas de Examen.csproj|solutionrelative:preguntas de examen\\preguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BE0F8D-F228-40EA-A8F7-A19BC86DC201}|ExamenC\\ExamenC.csproj|c:\\users\\user\\source\\repos\\examenc\\examenc\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BE0F8D-F228-40EA-A8F7-A19BC86DC201}|ExamenC\\ExamenC.csproj|solutionrelative:examenc\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BE0F8D-F228-40EA-A8F7-A19BC86DC201}|ExamenC\\ExamenC.csproj|C:\\Users\\user\\source\\repos\\ExamenC\\examenc\\productomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BE0F8D-F228-40EA-A8F7-A19BC86DC201}|ExamenC\\ExamenC.csproj|solutionrelative:examenc\\productomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BE0F8D-F228-40EA-A8F7-A19BC86DC201}|ExamenC\\ExamenC.csproj|C:\\Users\\user\\source\\repos\\ExamenC\\examenc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BE0F8D-F228-40EA-A8F7-A19BC86DC201}|ExamenC\\ExamenC.csproj|solutionrelative:examenc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BE0F8D-F228-40EA-A8F7-A19BC86DC201}|ExamenC\\ExamenC.csproj|C:\\Users\\user\\source\\repos\\ExamenC\\examenc\\iproductomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BE0F8D-F228-40EA-A8F7-A19BC86DC201}|ExamenC\\ExamenC.csproj|solutionrelative:examenc\\iproductomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Preguntas.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ExamenC\\Preguntas de Examen\\Preguntas.cs",
+              "RelativeDocumentMoniker": "Preguntas de Examen\\Preguntas.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ExamenC\\Preguntas de Examen\\Preguntas.cs",
+              "RelativeToolTip": "Preguntas de Examen\\Preguntas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:36:36.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ExamenC\\ExamenC\\Producto.cs",
+              "RelativeDocumentMoniker": "ExamenC\\Producto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ExamenC\\ExamenC\\Producto.cs",
+              "RelativeToolTip": "ExamenC\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:30:41.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ExamenC\\ExamenC\\ProductoManager.cs",
+              "RelativeDocumentMoniker": "ExamenC\\ProductoManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ExamenC\\ExamenC\\ProductoManager.cs",
+              "RelativeToolTip": "ExamenC\\ProductoManager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:31:28.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductoManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ExamenC\\ExamenC\\IProductoManager.cs",
+              "RelativeDocumentMoniker": "ExamenC\\IProductoManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ExamenC\\ExamenC\\IProductoManager.cs",
+              "RelativeToolTip": "ExamenC\\IProductoManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:30:07.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ExamenC\\ExamenC\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenC\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ExamenC\\ExamenC\\Program.cs",
+              "RelativeToolTip": "ExamenC\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:29:24.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
